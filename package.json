@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@jm18457/kafkajs-msk-iam-authentication-mechanism": "^3.1.2",
+    "kafkajs": "^2.2.4"
+  }
+}
